@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'openSansLight';
-    src: url(../resources/fonts/OpenSans-Light.ttf);
+    src: url(../fonts/OpenSans-Light.ttf);
 }
 
 @font-face {
     font-family: 'openSans';
-    src: url(../resources/fonts/OpenSans-Regular.ttf);
+    src: url(../fonts/OpenSans-Regular.ttf);
 }
 
 @font-face {
     font-family: 'openSansBold';
-    src: url(../resources/fonts/OpenSans-Bold.ttf);
+    src: url(../fonts/OpenSans-Bold.ttf);
 }
 
 body {
